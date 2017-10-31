@@ -6,7 +6,9 @@
   "scripts": {
     "start": "nodemon ./bin/www --exec babel-node ",
     "test": "mocha --compilers js:babel-core/register ./test/**/*test.js --exit",
-    "build": "babel src -d lib"
+    "coverage": "nyc report --reporter=text-lcov | coveralls",
+    "build": "babel src -d lib",
+    "coveralls": "nyc npm test&& nyc report --reporter=text-lcov | coveralls"
   },
   "keywords": [],
   "author": "",

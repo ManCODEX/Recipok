@@ -12,4 +12,4 @@ cache:
  - npm install
  
  after_success:
-- npm run coveralls
+- npm run coverage

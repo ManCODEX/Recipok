@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ManCODEX/ManCODEX.github.io.svg?branch=develop)](https://travis-ci.org/ManCODEX/ManCODEX.github.io)
+
 <html>
 <h1>Recipork</h1>
 </html>

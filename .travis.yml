@@ -11,5 +11,4 @@ script:
 cache:
  - npm install
  
- after success:
-  -npm run coverage
+ after success: -npm run coverage

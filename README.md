@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/ManCODEX/Recipok.svg?branch=ch-integrating-travis)](https://travis-ci.org/ManCODEX/Recipok)
 <html>
 <h1>Recipork</h1>
 </html>
